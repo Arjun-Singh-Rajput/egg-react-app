@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/egg-react-app/static/css/main.dc2ae480.chunk.css",
-    "main.js": "/egg-react-app/static/js/main.7152c13e.chunk.js",
-    "main.js.map": "/egg-react-app/static/js/main.7152c13e.chunk.js.map",
+    "main.css": "/egg-react-app/static/css/main.774878a7.chunk.css",
+    "main.js": "/egg-react-app/static/js/main.bfeb89d2.chunk.js",
+    "main.js.map": "/egg-react-app/static/js/main.bfeb89d2.chunk.js.map",
     "runtime-main.js": "/egg-react-app/static/js/runtime-main.c72f864b.js",
     "runtime-main.js.map": "/egg-react-app/static/js/runtime-main.c72f864b.js.map",
     "static/css/2.658248ec.chunk.css": "/egg-react-app/static/css/2.658248ec.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.8b776492.chunk.js.map": "/egg-react-app/static/js/2.8b776492.chunk.js.map",
     "index.html": "/egg-react-app/index.html",
     "static/css/2.658248ec.chunk.css.map": "/egg-react-app/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.dc2ae480.chunk.css.map": "/egg-react-app/static/css/main.dc2ae480.chunk.css.map",
+    "static/css/main.774878a7.chunk.css.map": "/egg-react-app/static/css/main.774878a7.chunk.css.map",
     "static/js/2.8b776492.chunk.js.LICENSE.txt": "/egg-react-app/static/js/2.8b776492.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c72f864b.js",
     "static/css/2.658248ec.chunk.css",
     "static/js/2.8b776492.chunk.js",
-    "static/css/main.dc2ae480.chunk.css",
-    "static/js/main.7152c13e.chunk.js"
+    "static/css/main.774878a7.chunk.css",
+    "static/js/main.bfeb89d2.chunk.js"
   ]
 }
